@@ -1,0 +1,2 @@
+# Entropy
+Discord Nuke Bot
